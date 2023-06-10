@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "aziszuhrip354",
+    "password": "adminadmin",
+    "database": "simple_notes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "aziszuhrip354",
+    "password": "adminadmin",
+    "database": "simple_notes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "aziszuhrip354",
+    "password": "adminadmin",
+    "database": "simple_notes",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
